@@ -29,7 +29,7 @@
 ## 输出 Y
 
 - 当前三件套：`vibe-check / vibe-flow / vibe-recipe`。
-- 当前仓库品牌：`vibeOs`。
+- 当时的仓库品牌：`vibeOs`；现已更名为 `vibe0s`。
 - 自动验证：`npm test` 与 `npm run build`。
 - 独立验证发现的 P1 已进入回归测试，不再只依赖人工记忆。
 

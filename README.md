@@ -1,4 +1,4 @@
-# vibeOs
+# vibe0s
 
 [![Protocol](https://img.shields.io/badge/Agency_Protocol-v0.1-5B5BD6)](protocol/) [![Skills](https://img.shields.io/badge/reference_skills-3-111111)](skills/) [![Tests](https://img.shields.io/badge/tests-Node.js-339933)](tests/) [![License: MIT](https://img.shields.io/badge/license-MIT-yellow.svg)](LICENSE)
 
@@ -12,9 +12,9 @@
 
 如果目标还说不清，它会先把需要你决定的问题交给 `$vibe-check`；事情做成以后，你还可以用 `$vibe-recipe` 把方法保存成下次能直接复用的 Skill。
 
-![vibeOs 的 Vibe Tri-Pack：想明白、串起来、变套路](docs/assets/vibe-tri-pack.svg)
+![vibe0s 的 Vibe Tri-Pack：想明白、串起来、变套路](docs/assets/vibe-tri-pack.svg)
 
-## 什么时候用 vibeOs
+## 什么时候用 vibe0s
 
 | 你现在卡在哪里 | 直接这样说 | 接下来会发生什么 |
 | --- | --- | --- |
@@ -24,9 +24,9 @@
 
 已经知道该怎么做，只想让 AI 选择工具并完成任务？直接使用 `$vibe-flow`。只是一次性小事？做完就停，不必强行保存成 Skill。
 
-## vibeOs 替你选工具，不替你做决定
+## vibe0s 替你选工具，不替你做决定
 
-vibeOs 可以查看现状、提出方向、选择工具、安排执行和记录方法，但下面这些决定不会交给 AI 猜：
+vibe0s 可以查看现状、提出方向、选择工具、安排执行和记录方法，但下面这些决定不会交给 AI 猜：
 
 - 你真正想要什么；
 - 哪种取舍更像你；
@@ -48,7 +48,7 @@ AI 会先检查兼容性、安装位置和同名冲突，等你确认后再开�
 
 ### 按需安装常用 Skill
 
-`$vibe-flow` 会从你已经安装的 Skill 中选择需要的能力。下面是哆啦日常使用的两套 Skill；它们不是 vibeOs 的必装依赖，需要哪类能力，就复制对应内容到 AI 对话框。
+`$vibe-flow` 会从你已经安装的 Skill 中选择需要的能力。下面是哆啦日常使用的两套 Skill；它们不是 vibe0s 的必装依赖，需要哪类能力，就复制对应内容到 AI 对话框。
 
 #### 让 AI 做出更自然的动画和更精致的界面：[`emilkowalski/skills`](https://github.com/emilkowalski/skills)
 
@@ -110,13 +110,13 @@ https://github.com/hylarucoder/hai-stack
 
 AI 没有自动消除学习成本。很多时候，人要先学怎么描述需求、研究该选哪个工具，再手动拼接流程；即使成功一次，下次还要重新来。
 
-vibeOs 把这些工作拆成三个可以检查的动作：
+vibe0s 把这些工作拆成三个可以检查的动作：
 
 ```text
 想明白（vibe-check） → 串起来（vibe-flow） → 变套路（vibe-recipe）
 ```
 
-| 原本需要你反复处理 | vibeOs 的具体做法 |
+| 原本需要你反复处理 | vibe0s 的具体做法 |
 | --- | --- |
 | 研究怎样把需求说得专业 | 用具体对比确认目标，而不是要求你先学会专业表达 |
 | 阅读每个工具的说明，再决定谁先谁后 | 只选择对当前任务有独特价值的 Skill，并安排执行 |
@@ -141,7 +141,7 @@ make test
 <summary><strong>查看仓库结构</strong></summary>
 
 ```text
-vibeOs/
+vibe0s/
 ├── skills/
 │   ├── vibe-check/          # 想明白
 │   ├── vibe-flow/           # 串起来
@@ -158,8 +158,8 @@ vibeOs/
 
 ## 研究来源
 
-- [Ferry](https://github.com/AdgaiWalker/Ferry)：vibeOs 的主要研究来源，涵盖人类主权、意图—执行—记忆—进化闭环，以及通过记录和复盘对抗协作遗忘。
-- [华罗庚《统筹方法平话及补充》](https://www.amss.cas.cn/ryszl/hlg/lwzz/)：统筹方法的研究来源。华罗庚在中国生产实践中提炼和推广统筹法；vibeOs 借鉴其中组织任务网络、识别关键环节和安排并行工作的思想。
+- [Ferry](https://github.com/AdgaiWalker/Ferry)：vibe0s 的主要研究来源，涵盖人类主权、意图—执行—记忆—进化闭环，以及通过记录和复盘对抗协作遗忘。
+- [华罗庚《统筹方法平话及补充》](https://www.amss.cas.cn/ryszl/hlg/lwzz/)：统筹方法的研究来源。华罗庚在中国生产实践中提炼和推广统筹法；vibe0s 借鉴其中组织任务网络、识别关键环节和安排并行工作的思想。
 
 ## License
 

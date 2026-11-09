@@ -20,11 +20,11 @@
 
 ## 安装
 
-克隆 vibeOs 并链接三个 Skill：
+克隆 vibe0s 并链接三个 Skill：
 
 ```bash
 git clone https://github.com/AdgaiWalker/vibe0s.git
-cd vibeOs
+cd vibe0s
 make link
 ```
 
